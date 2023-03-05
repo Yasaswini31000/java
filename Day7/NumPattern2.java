@@ -1,33 +1,30 @@
 
 /*
 
-     * 
-    * * 
-   * * * 
-  * * * * 
- * * * * * 
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
 
 
 */
 
 
 import java.util.Scanner;
-public class ForLoopPattern5
+public class NumPattern2
 {
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 System.out.print("Enter any number :");
 int n=sc.nextInt();
+int start=1;
 for(int i=1;i<=n;i++)
 {
-for(int j=i;j<=2*n-i;j+=2)
+for(int j=1;j<=i;j++)
 {
-System.out.print(" ");
-}
-for(int k=1;k<=i;k++)
-{
-System.out.print("* ");
+System.out.print((start++)+" ");
 }
 System.out.println();
 }

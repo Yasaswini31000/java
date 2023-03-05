@@ -1,3 +1,15 @@
+/*
+
+****
+****
+****
+****
+****
+
+
+*/
+
+
 import java.util.Scanner;
 public class ForLoopPattern3
 {
