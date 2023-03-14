@@ -1,0 +1,27 @@
+                                                           
+                                                           Big O-Notations(Space Complexity):
+                                                           
+          
+     Definition:-
+          
+ Big-O:
+      Big O Notation is a tool used to describe the time complexity of algorithms. It calculates the time taken to run an algorithm as the input grows. In other words, it calculates the worst-case time complexity of an algorithm. Big O Notation in Data Structure describes the upper bound of an algorithm's runtime.
+the following are the various types of Big O notations:
+they are:
+
+1)Time complexity 
+2)Space complexity
+
+Space complexity Definition:
+        The ability to calculate space complexity is essential in considering an algorithm’s efficiency. In this section, we’ll analyze the space complexity of a few programs of differing difficulty. We’ll measure it using big-O notation.Above all, it’s necessary to mention that space complexity depends on a variety of things such as the programming language, the compiler, or even the machine running the algorithm.
+        
+i)Big O(1):
+   When there is no dependence on the input size n, an algorithm is said to have a constant time of order O(1).
+
+ii)Big O(n):
+   Linear time is achieved when the running time of an algorithm increases linearly with the length of the input. This means that when a function runs for or iterates over an input size of n, it is said to have a time complexity of order O(n).
+
+iii)Big O(n^2):
+   The performance of a quadratic time complexity algorithm is directly related to the squared size of the input data collection. You will encounter such time complexity in programs when you perform several iterations on data sets. If the array has n items, the outer loop will execute n times, and the inner loop will execute n times for each iteration of the outer loop, resulting in n^2 prints. If the size of the array is 10, then the loop runs 10x10 times. So the function ten will print 100 times. As a result, this function will take O(n^2) time to complete.
+
+                                                                 
