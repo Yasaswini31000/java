@@ -4,7 +4,7 @@
   
   Definition:-
   
-Big O Notation is a tool used to describe the time complexity of algorithms. It calculates the time taken to run an algorithm as the input grows. In other words, it calculates the worst-case time complexity of an algorithm. Big O Notation in Data Structure describes the upper bound of an algorithm's runtime.
+Big O Notation is a tool used to describe the time complexity of algorithms.It calculates the time taken to run an algorithm as the input grows. In other words, it calculates the worst-case time complexity of an algorithm. Big O Notation in Data Structure describes the upper bound of an algorithm's runtime.
 the following are the various types of Big O notations:
 they are:
 
@@ -30,4 +30,4 @@ v)Big O(2^n):
 With each addition to the input (n), the growth rate doubles, and the algorithm iterates across all subsets of the input elements. When an input unit is increased by one, the number of operations executed is doubled.The algorithm O(2^n) specifies a growth rate that doubles every time the input data set is added. An O(2^n) function's exponential growth curve starts shallow and then rises rapidly.
 
 vi)Big O(n log n):
-Any algorithm that repeatedly divides a set of data in half and then processes those halves independently with a sub algorithm that has a time complexity of O(N), will have an overall time complexity of O(N log N). Examples include Merge sort, Heap sort, and Quick sort.
+Any algorithm that repeatedly divides a set of data in half and then processes those halves independently with a sub algorithm that has a time complexity of O(N), will have an overall time complexity of O(N log N).Examples include Merge sort, Heap sort,and Quick sort.
