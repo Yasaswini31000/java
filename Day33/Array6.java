@@ -2,9 +2,9 @@ public class Array6
 {
 public static void main(String args[])
 {
-int[] arr={3,2,6,4,7};
+int arr[]={3,2,6,4,7};
 int index=0;
-System.out.println(array6(arr));
+System.out.println(array6(arr,index));
 }
 static boolean array6(int[] arr,int index)
 {
@@ -16,3 +16,5 @@ else
 return array6(arr,index+1);
 }
 }
+
+
