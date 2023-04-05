@@ -9,7 +9,7 @@ static String count11(String str)
 {
 if(str.length()<2)
 return str;
-if(str.substring(0,2).equals("11"))
+if(str.charAt(0)=='1'||str.charAt(1)=='1')
 return 1+count11(str.substring(2));
 else
 return count11(str.substring(1));
