@@ -10,13 +10,13 @@ enum Animal {
         System.out.println("select one animal :");
     }
     Animal(String str) {
-        System.out.println("you choosen :" + str);
+        System.out.println("first selected one :" + str);
     }
     Animal(String str, String str1) {
-        System.out.println("you choosed :" + str + " " + str1);
+        System.out.println("next selected one :" + str + " " + str1);
     }
     Animal(String str,String str1,String str2) {
-        System.out.println("you choosen  :" + str + " " + str1 + " " + str2);
+        System.out.println("last selected one :" + str + " " + str1 + " " + str2);
     }
 }
 public class ConstructorsUsingEnum {
