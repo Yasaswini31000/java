@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca79765-28b8-4c52-8c3d-ddb3adfecbcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListImplementationEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InstanceOfOperatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodChainingEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackOverflowEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StackUnderflowEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day85/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day85/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day86.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day86.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Day86/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Day86/Day86.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day86/Day86.iml" afterDir="false" />
-    </list>
+    <list default="true" id="fca79765-28b8-4c52-8c3d-ddb3adfecbcd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,14 +25,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
