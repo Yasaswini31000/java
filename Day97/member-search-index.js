@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Student","l":"getIdCard(int)"},{"p":"<Unnamed>","c":"Student","l":"getName(int)"}]
