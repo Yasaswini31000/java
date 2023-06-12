@@ -4,8 +4,8 @@
 import java.util.Scanner;
 public class GeometryProgramsEx {
     /**
-     * @param area      Geometry
-     * @param perimeter Geometry
+     * @param Area of a Geometry
+     * @param Perimeter of a Geometry
      */
 
 
