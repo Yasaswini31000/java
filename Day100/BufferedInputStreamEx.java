@@ -4,21 +4,21 @@ public class BufferedInputStreamEx {
 
         try {
 
-            FileInputStream fin=new FileInputStream("rock.txt");
+            FileInputStream fis=new FileInputStream("rock.txt");
 
-            BufferedInputStream bin=new BufferedInputStream(fin);
+            BufferedInputStream bis=new BufferedInputStream(fis);
 
             int i;
 
-            while((i=bin.read())!=-1) {
+            while((i=bis.read())!=-1) {
 
                 System.out.print((char)i);
 
             }
 
-            bin.close();
+            bis.close();
 
-            fin.close();
+            fis.close();
 
         } catch(Exception e) {
 
