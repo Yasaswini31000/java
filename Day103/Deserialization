@@ -1,0 +1,6 @@
+Deserialization is the reversal of serialization, in which a byte data type stream is turned back to a memory object. The best thing about both techniques is that they’re both JVM-agnostic,
+which means you can serialize on one JVM and de-serialize on another.
+
+For deserialization, use the InputObjectStream class’s readObject method.
+
+ The .ser extension is usually used when serializing an entity to a file in Java.

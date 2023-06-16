@@ -1,0 +1,9 @@
+Transient keyword is a variable modifier which is used in the context of Serialization in Java.
+
+Serialization is a process of converting an object state into some file which can be saved in a hard disk drive rather than the main memory.
+
+Let's take an example of an object where we have some confidential data in a variable.
+
+While serialization we don't want the confidential data to be saved on hard disk in the process of serialization.
+
+So here the Transient Keyword in Java is used along with the variable to avoid serialization of that particular variable.
