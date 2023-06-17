@@ -1,0 +1,8 @@
+In Java, a record is a special type of class declaration aimed at reducing the boilerplate code.
+Java records were introduced with the intention to be used as a fast way to create
+data carrier classes, i.e. the classes whose objective is to simply contain data and carry it between modules,
+ also known as POJOs (Plain Old Java Objects) and DTOs (Data Transfer Objects).
+ Record was introduced in Java SE 14 as a preview feature, which is a feature whose design,
+ implementation, and specification are complete but it is not a permanent addition to the language,
+ which means that the feature may or may not exist in the future versions of the language.
+ Java SE 15 extends the preview feature with additional capabilities such as local record classes.
