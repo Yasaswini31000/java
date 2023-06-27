@@ -1,0 +1,13 @@
+sealed class.
+
+It is a preview feature.
+
+Java sealed classes and interfaces restrict that which classes and interfaces may extend or implement them.
+
+In other words, we can say that the class that cannot be inherited but can be instantiated is known as the sealed class.
+
+It allows classes and interfaces to have more control over their permitted subtypes.
+
+It is useful both for general domain modeling and for building a more secure platform for libraries.
+
+Note that the concept of sealed classes is a preview feature, not a permanent feature.
